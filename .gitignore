@@ -1,6 +1,6 @@
 .DS_Store
-data/target_competencia.csv
-data/auctions.csv.gzip
-data/installs.csv.gzip
-data/events.csv.gzip
-data/clicks.csv.gzip
+TP1/data/target_competencia.csv
+TP1/data/auctions.csv.gzip
+TP1/data/installs.csv.gzip
+TP1/data/events.csv.gzip
+TP1/data/clicks.csv.gzip
