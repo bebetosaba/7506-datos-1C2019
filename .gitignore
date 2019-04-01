@@ -1,0 +1,6 @@
+.DS_Store
+data/target_competencia.csv
+data/auctions.csv.gzip
+data/installs.csv.gzip
+data/events.csv.gzip
+data/clicks.csv.gzip
