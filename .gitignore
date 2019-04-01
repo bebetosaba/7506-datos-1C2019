@@ -1,4 +1,5 @@
 .DS_Store
+.ipynb_checkpoints
 TP1/data/target_competencia.csv
 TP1/data/auctions.csv.gzip
 TP1/data/installs.csv.gzip
