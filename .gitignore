@@ -5,3 +5,4 @@ TP1/data/auctions.csv.gzip
 TP1/data/installs.csv.gzip
 TP1/data/events.csv.gzip
 TP1/data/clicks.csv.gzip
+.~lock.*
