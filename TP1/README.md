@@ -59,7 +59,7 @@ La idea del TP1 es obtener información que facilite luego plantear una solució
 
 ## Glosario
 
-- *Convertir:* el objetivo de mostrar publicidad es que un dispositivo instale una aplicación, a ese evento se le llama conversión.
-- *Dispositivo:* entidad con un id de publicidad asociado. Por ejemplo: un celular Samsung J6 con Android tiene un [https://support.google.com/googleplay/android-developer/answer/6048248?hl=en|id único], un Apple iPhone tiene un [https://www.businessinsider.com/ifa-apples-iphone-tracking-in-ios-6-2012-10|identificador único]. 
-- *Evento:* cualquier tipo de acción categorizada dentro de una aplicación. Por ejemplo, en una aplicación de e-commerce un funnel de eventos muy común puede ser del estilo “abrir_app” → “buscar_producto” → “revisar_catalogo” → “agregar_a_carrito” → “efectuar_compra”. Cada uno de estos pasos es un evento.
-- *Subasta:* en el momento que una aplicación quiere mostrar una publicidad, ese espacio se vende en una subasta (generalmente de segundo precio) donde todos los interesados en mostrar una publicidad ofertan un precio y gana quién más ofrece.
+- **Convertir:** el objetivo de mostrar publicidad es que un dispositivo instale una aplicación, a ese evento se le llama conversión.
+- **Dispositivo:** entidad con un id de publicidad asociado. Por ejemplo: un celular Samsung J6 con Android tiene un [id único](https://support.google.com/googleplay/android-developer/answer/6048248?hl=en), un Apple iPhone tiene un [identificador único](https://www.businessinsider.com/ifa-apples-iphone-tracking-in-ios-6-2012-10). 
+- **Evento:** cualquier tipo de acción categorizada dentro de una aplicación. Por ejemplo, en una aplicación de e-commerce un [funnel de eventos](https://en.wikipedia.org/wiki/Funnel_analysis) muy común puede ser del estilo “abrir_app” → “buscar_producto” → “revisar_catalogo” → “agregar_a_carrito” → “efectuar_compra”. Cada uno de estos pasos es un **evento**.
+- **Subasta:** en el momento que una aplicación quiere mostrar una publicidad, ese espacio se vende en una subasta (generalmente de segundo precio) donde todos los interesados en mostrar una publicidad ofertan un precio y gana quién más ofrece.
